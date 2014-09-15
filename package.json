@@ -1,0 +1,17 @@
+{
+    "title": "Monokai Redux",
+    "name": "chiraggude.monokai-redux",
+    "description": "This dark theme is a customized version of the Monokai color scheme",
+    "version": "1.0.0",
+    "author": "Chirag Gude <chiraggude@gmail.com> (https://github.com/chiraggude)",
+    "homepage": "https://github.com/chiraggude/brackets-monokai-redux",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
